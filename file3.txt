@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Local Repo : line$1
-Local Repo : line$2
-Local Repo : line$3
+Remote repo : Line2
+Remote repo : Line3
+
+>>>>>>> 7c0c6fb5057f0d6e1901f0caa8064c88459eb9b1
